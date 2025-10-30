@@ -30,12 +30,12 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 - [1. Chronik](https://notebooklm.google.com/notebook/0bda6554-32c7-48b6-927f-705c75323f44?authuser=1)
 - [2. Chronik](https://notebooklm.google.com/notebook/a1e20a8a-ebe2-4beb-8ef3-9b48dfbbf16f?authuser=1)
 - [Esra](https://notebooklm.google.com/notebook/968f2ec7-5ced-45af-977a-f1a9b87e3ef4?authuser=1)
-- [Nehemia](
-- [Ester](
-- [Hiob](
-- [Psalmen](
-- [Sprüche](
-- [Prediger](
+- [Nehemia](https://notebooklm.google.com/notebook/52133075-b697-4533-ab5d-080338ae11ac?authuser=1)
+- [Ester](https://notebooklm.google.com/notebook/6889bfab-02d3-48a3-acb1-5ee87bb57c98?authuser=1)
+- [Hiob](https://notebooklm.google.com/notebook/38617ecc-3035-4fd4-96c5-678c676c5d7c?authuser=1)
+- [Psalmen](https://notebooklm.google.com/notebook/9cf94232-9167-4032-b95c-489abd18733f?authuser=1)
+- [Sprüche](https://notebooklm.google.com/notebook/f3dcbbb2-97c5-47e1-8755-e903b829739c?authuser=1)
+- [Prediger](https://notebooklm.google.com/notebook/16fe1a55-c8d8-4452-acb2-0825051ab772?authuser=1)
 - [Hohelied](
 - [Jesaja](
 - [Jeremia](
