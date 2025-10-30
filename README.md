@@ -6,78 +6,80 @@ Alle Bibelbücher wurden in NotebookLM importiert und sind einzeln verlinkt. Nut
 Features
 
 Quellenreinheit: Antworten stammen nur aus den Bibeltexten (Neue Evangelistische Übersetzung).
-Individuelle Buch-Interaktion: Jedes Bibelbuch ist über einen eigenen Link erreichbar. Alle Links finden sie unter der Datei [Bibel_NEÜ_NotebookLM](https://github.com/BibleProjectNotebookLM/NE--Bibel/tree/main)
-Einfache Navigation: Vollständige Liste aller Bibelbücher mit Links.
+Individuelle Buch-Interaktion: Jedes Bibelbuch ist über einen eigenen Link erreichbar (siehe unten). 
 
 Ziel
 Eine transparente und verlässliche Plattform für die digitale Erkundung der Bibel – ohne externe Kommentare oder Interpretationen.
 Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielfältig oder veröffentlicht werden.
 
-# Liste der Bibelbücher
+# Links zu den Notebooks der Bibelbücher
 
-- [Genesis](LINK_HIER_EINFÜGEN)
-- [Exodus](LINK_HIER_EINFÜGEN)
-- [Leviticus](LINK_HIER_EINFÜGEN)
-- [Numbers](LINK_HIER_EINFÜGEN)
-- [Deuteronomy](LINK_HIER_EINFÜGEN)
-- [Joshua](LINK_HIER_EINFÜGEN)
-- [Judges](LINK_HIER_EINFÜGEN)
-- [Ruth](LINK_HIER_EINFÜGEN)
-- [1 Samuel](LINK_HIER_EINFÜGEN)
-- [2 Samuel](LINK_HIER_EINFÜGEN)
-- [1 Kings](LINK_HIER_EINFÜGEN)
-- [2 Kings](LINK_HIER_EINFÜGEN)
-- [1 Chronicles](LINK_HIER_EINFÜGEN)
-- [2 Chronicles](LINK_HIER_EINFÜGEN)
-- [Ezra](LINK_HIER_EINFÜGEN)
-- [Nehemiah](LINK_HIER_EINFÜGEN)
-- [Esther](https://notebooklm.google.com/notebook/6889bfab-02d3-48a3-acb1-5ee87bb57c98?authuser=1)
-- [Job](LINK_HIER_EINFÜGEN)
-- [Psalms](LINK_HIER_EINFÜGEN)
-- [Proverbs](LINK_HIER_EINFÜGEN)
-- [Ecclesiastes](LINK_HIER_EINFÜGEN)
-- [Song of Solomon](LINK_HIER_EINFÜGEN)
-- [Isaiah](LINK_HIER_EINFÜGEN)
-- [Jeremiah](LINK_HIER_EINFÜGEN)
-- [Lamentations](LINK_HIER_EINFÜGEN)
-- [Ezekiel](LINK_HIER_EINFÜGEN)
-- [Daniel](LINK_HIER_EINFÜGEN)
-- [Hosea](LINK_HIER_EINFÜGEN)
-- [Joel](LINK_HIER_EINFÜGEN)
-- [Amos](LINK_HIER_EINFÜGEN)
-- [Obadiah](LINK_HIER_EINFÜGEN)
-- [Jonah](LINK_HIER_EINFÜGEN)
-- [Micah](LINK_HIER_EINFÜGEN)
-- [Nahum](LINK_HIER_EINFÜGEN)
-- [Habakkuk](LINK_HIER_EINFÜGEN)
-- [Zephaniah](LINK_HIER_EINFÜGEN)
-- [Haggai](LINK_HIER_EINFÜGEN)
-- [Zechariah](LINK_HIER_EINFÜGEN)
-- [Malachi](LINK_HIER_EINFÜGEN)
-- [Matthew](LINK_HIER_EINFÜGEN)
-- [Mark](LINK_HIER_EINFÜGEN)
-- [Luke](LINK_HIER_EINFÜGEN)
-- [John](LINK_HIER_EINFÜGEN)
-- [Acts](LINK_HIER_EINFÜGEN)
-- [Romans](LINK_HIER_EINFÜGEN)
-- [1 Corinthians](LINK_HIER_EINFÜGEN)
-- [2 Corinthians](LINK_HIER_EINFÜGEN)
-- [Galatians](LINK_HIER_EINFÜGEN)
-- [Ephesians](LINK_HIER_EINFÜGEN)
-- [Philippians](LINK_HIER_EINFÜGEN)
-- [Colossians](LINK_HIER_EINFÜGEN)
-- [1 Thessalonians](LINK_HIER_EINFÜGEN)
-- [2 Thessalonians](LINK_HIER_EINFÜGEN)
-- [1 Timothy](LINK_HIER_EINFÜGEN)
-- [2 Timothy](LINK_HIER_EINFÜGEN)
-- [Titus](LINK_HIER_EINFÜGEN)
-- [Philemon](LINK_HIER_EINFÜGEN)
-- [Hebrews](LINK_HIER_EINFÜGEN)
-- [James](LINK_HIER_EINFÜGEN)
-- [1 Peter](LINK_HIER_EINFÜGEN)
-- [2 Peter](LINK_HIER_EINFÜGEN)
-- [1 John](LINK_HIER_EINFÜGEN)
-- [2 John](LINK_HIER_EINFÜGEN)
-- [3 John](LINK_HIER_EINFÜGEN)
-- [Jude](LINK_HIER_EINFÜGEN)
-- [Revelation](LINK_HIER_EINFÜGEN)
+## Altes Testament:
+- [1. Mose (Genesis)](https://notebooklm.google.com/notebook/47ed8f67-1a1d-4b25-aa83-43b5077609c6?authuser=1)
+- [2. Mose (Exodus)](https://notebooklm.google.com/notebook/2fb1c20c-72a3-4a63-aedb-6b64f7255b03?authuser=1)
+- [3. Mose (Levitikus)](https://notebooklm.google.com/notebook/6f14cbd3-735a-447b-b7f1-1fb2ae299451?authuser=1)
+- [4. Mose (Numeri)](https://notebooklm.google.com/notebook/d5b25bf4-ec17-492d-9b54-1787f5bdf5f5?authuser=1)
+- [5. Mose (Deuteronomium)](https://notebooklm.google.com/notebook/e9584c07-a0ea-4194-a104-e63768cbb5a9?authuser=1)
+- [Josua](https://notebooklm.google.com/notebook/a4e93c89-5c07-4f7f-9ceb-f4d113eee8e1?authuser=1)
+- [Richter](https://notebooklm.google.com/notebook/1a348224-215b-4f73-b34c-5bc2043b327c?authuser=1)
+- [Ruth](https://notebooklm.google.com/notebook/5819828e-f51f-4164-88b2-d4f3e5098ca9?authuser=1)
+- [1. Samuel](https://notebooklm.google.com/notebook/1331b061-52aa-4c2a-a64d-d1e26ba29e36?authuser=1)
+- [2. Samuel](https://notebooklm.google.com/notebook/48b6c605-9f98-4c33-844a-9d2d6357e9b2?authuser=1)
+- [1. Könige](https://notebooklm.google.com/notebook/6b0fdb2f-a159-41d8-8ab7-17357f4de50b?authuser=1)
+- [2. Könige](https://notebooklm.google.com/notebook/0bda6554-32c7-48b6-927f-705c75323f44?authuser=1)
+- [1. Chronik](https://notebooklm.google.com/notebook/0bda6554-32c7-48b6-927f-705c75323f44?authuser=1)
+- [2. Chronik](https://notebooklm.google.com/notebook/a1e20a8a-ebe2-4beb-8ef3-9b48dfbbf16f?authuser=1)
+- [Esra](https://notebooklm.google.com/notebook/968f2ec7-5ced-45af-977a-f1a9b87e3ef4?authuser=1)
+- [Nehemia](
+- [Ester](
+- [Hiob](
+- [Psalmen](
+- [Sprüche](
+- [Prediger](
+- [Hohelied](
+- [Jesaja](
+- [Jeremia](
+- [Klagelieder](
+- [Hesekiel](
+- [Daniel](
+- [Hosea](
+- [Joel](
+- [Amos](
+- [Obadja](
+- [Jona](
+- [Micha](
+- [Nahum](
+- [Habakuk](
+- [Zefanja](
+- [Haggai](
+- [Sacharja](
+- [Maleachi](
+
+## Neues Testament:
+- [Matthäus](
+- [Markus](
+- [Lukas](
+- [Johannes](
+- [Apostelgeschichte](
+- [Römer](
+- [1. Korinther](
+- [2. Korinther](
+- [Galater](
+- [Epheser](
+- [Philipper](
+- [Kolosser](
+- [1. Thessalonicher](
+- [2. Thessalonicher](
+- [1. Timotheus](
+- [2. Timotheus](
+- [Titus](
+- [Philemon](
+- [Hebräer](
+- [Jakobus](
+- [1. Petrus](
+- [2. Petrus](
+- [1. Johannes](
+- [2. Johannes](
+- [3. Johannes](
+- [Judas](
+- [Offenbarung](
