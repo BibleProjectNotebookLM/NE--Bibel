@@ -15,7 +15,7 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 # Links zu den Notebooks der Bibelbücher
 
 ## Altes Testament:
-- [1. Mose (Genesis)](https://notebooklm.google.com/notebook/47ed8f67-1a1d-4b25-aa83-43b5077609c6?authuser=1)
+- <a href="https://notebooklm.google.com/notebook/47ed8f67-1a1d-4b25-aa83-43b5077609c6?authuser=1" target="_blank">1. Mose (Genesis)</a>
 - [2. Mose (Exodus)](https://notebooklm.google.com/notebook/2fb1c20c-72a3-4a63-aedb-6b64f7255b03?authuser=1)
 - [3. Mose (Levitikus)](https://notebooklm.google.com/notebook/6f14cbd3-735a-447b-b7f1-1fb2ae299451?authuser=1)
 - [4. Mose (Numeri)](https://notebooklm.google.com/notebook/d5b25bf4-ec17-492d-9b54-1787f5bdf5f5?authuser=1)
