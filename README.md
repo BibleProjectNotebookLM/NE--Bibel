@@ -58,28 +58,28 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 ## Neues Testament:
 - [Matthäus](https://notebooklm.google.com/notebook/99a7ad75-2c39-4539-87cf-85acd52e4f9c?authuser=1)
 - [Markus](https://notebooklm.google.com/notebook/eb72b43c-515a-4ab2-8ee0-f98aa781aac5?authuser=1)
-- [Lukas](
-- [Johannes](
-- [Apostelgeschichte](
-- [Römer](
-- [1. Korinther](
-- [2. Korinther](
-- [Galater](
-- [Epheser](
-- [Philipper](
-- [Kolosser](
-- [1. Thessalonicher](
-- [2. Thessalonicher](
-- [1. Timotheus](
-- [2. Timotheus](
-- [Titus](
-- [Philemon](
-- [Hebräer](
-- [Jakobus](
-- [1. Petrus](
-- [2. Petrus](
-- [1. Johannes](
-- [2. Johannes](
-- [3. Johannes](
-- [Judas](
-- [Offenbarung](
+- [Lukas](https://notebooklm.google.com/notebook/cf1328f5-f2cd-4c46-a5c1-41ccb0498320?authuser=1)
+- [Johannes](https://notebooklm.google.com/notebook/6bf4a0e3-6426-4227-85a9-9d01e573ad16?authuser=1)
+- [Apostelgeschichte](https://notebooklm.google.com/notebook/89995cd7-aaaa-45b2-ab52-354297bf9799?authuser=1)
+- [Römer](https://notebooklm.google.com/notebook/266c2898-e85e-4c7e-9a5b-b44d24eee638?authuser=1)
+- [1. Korinther](https://notebooklm.google.com/notebook/894bb1ad-064c-4b6d-bb34-79ca1e041488?authuser=1)
+- [2. Korinther](https://notebooklm.google.com/notebook/bce28dd0-c3e1-464d-9b05-dec7f9a9a941?authuser=1)
+- [Galater](https://notebooklm.google.com/notebook/8c28592f-7465-4560-8843-4fdf788def6a?authuser=1)
+- [Epheser](https://notebooklm.google.com/notebook/4c6c301f-3161-47fa-8b48-3b813f64e66f?authuser=1)
+- [Philipper](https://notebooklm.google.com/notebook/654cbef4-90dd-4f16-9012-2990cae5e483?authuser=1)
+- [Kolosser](https://notebooklm.google.com/notebook/62adc28f-5b55-4fb9-9525-05599f9ae697?authuser=1)
+- [1. Thessalonicher](https://notebooklm.google.com/notebook/6af0e5b6-1254-4abb-9a0c-fc742882cfca?authuser=1)
+- [2. Thessalonicher](https://notebooklm.google.com/notebook/cce6d5b4-582d-413d-985b-08051e329fce?authuser=1)
+- [1. Timotheus](https://notebooklm.google.com/notebook/38cb16a6-b6de-4ba8-88f1-ba0b1aedbea9?authuser=1)
+- [2. Timotheus](https://notebooklm.google.com/notebook/3d81db4b-ce1f-4c69-a722-1c85cf0bf710?authuser=1)
+- [Titus](https://notebooklm.google.com/notebook/23121e66-8db5-47d4-830f-9f84b1766c1c?authuser=1)
+- [Philemon](https://notebooklm.google.com/notebook/26498289-0e5b-44a8-aff2-a3fff5d3437f?authuser=1)
+- [Hebräer](https://notebooklm.google.com/notebook/a3cdb9e9-df02-4c9e-b39e-dec6342bdc37?authuser=1)
+- [Jakobus](https://notebooklm.google.com/notebook/b60c064b-c44c-46ed-b6fb-0d93e9e41707?authuser=1)
+- [1. Petrus](https://notebooklm.google.com/notebook/e35c8832-7ffc-4ce1-bbe2-f6670dfced23?authuser=1)
+- [2. Petrus](https://notebooklm.google.com/notebook/e26175c6-d90b-4e52-83e9-32f93b98be0e?authuser=1)
+- [1. Johannes](https://notebooklm.google.com/notebook/57e687f2-52d6-4c83-b419-4cc522f93de3?authuser=1)
+- [2. Johannes](https://notebooklm.google.com/notebook/187ded3c-01a4-4486-ad47-1dc54edbdf4e?authuser=1)
+- [3. Johannes](https://notebooklm.google.com/notebook/926b89f4-71e7-4cd6-92d3-c4cc663b6f22?authuser=1)
+- [Judas](https://notebooklm.google.com/notebook/306f892c-dde2-4969-9d07-10d2c24cf892?authuser=1)
+- [Offenbarung](https://notebooklm.google.com/notebook/04889d69-86e6-425b-abe0-8d3dd368b81f?authuser=1)
