@@ -56,6 +56,8 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 - [Maleachi](https://notebooklm.google.com/notebook/edd39e1f-88f4-4d72-916a-51d6422fc336?authuser=1)
 
 ## Neues Testament:
+- [Das komplette Neue Testament](https://notebooklm.google.com/notebook/58f8faa6-740d-4a9c-ac43-1e0d099fe753?authuser=1)
+
 - [Matthäus](https://notebooklm.google.com/notebook/99a7ad75-2c39-4539-87cf-85acd52e4f9c?authuser=1)
 - [Markus](https://notebooklm.google.com/notebook/eb72b43c-515a-4ab2-8ee0-f98aa781aac5?authuser=1)
 - [Lukas](https://notebooklm.google.com/notebook/cf1328f5-f2cd-4c46-a5c1-41ccb0498320?authuser=1)
