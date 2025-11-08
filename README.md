@@ -26,7 +26,7 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 - [1. Samuel](https://notebooklm.google.com/notebook/1331b061-52aa-4c2a-a64d-d1e26ba29e36?authuser=1)
 - [2. Samuel](https://notebooklm.google.com/notebook/48b6c605-9f98-4c33-844a-9d2d6357e9b2?authuser=1)
 - [1. Könige](https://notebooklm.google.com/notebook/6b0fdb2f-a159-41d8-8ab7-17357f4de50b?authuser=1)
-- [2. Könige](https://notebooklm.google.com/notebook/0bda6554-32c7-48b6-927f-705c75323f44?authuser=1)
+- [2. Könige](https://notebooklm.google.com/notebook/89641650-e11d-4362-9d59-2b53d6b0fec7?authuser=1)
 - [1. Chronik](https://notebooklm.google.com/notebook/0bda6554-32c7-48b6-927f-705c75323f44?authuser=1)
 - [2. Chronik](https://notebooklm.google.com/notebook/a1e20a8a-ebe2-4beb-8ef3-9b48dfbbf16f?authuser=1)
 - [Esra](https://notebooklm.google.com/notebook/968f2ec7-5ced-45af-977a-f1a9b87e3ef4?authuser=1)
