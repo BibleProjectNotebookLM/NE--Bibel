@@ -14,6 +14,10 @@ Alle Notizbücher und daraus entstandene Werke können frei verwendet; vervielf�
 
 # Links zu den Notebooks der Bibelbücher
 
+Alle Zusammenfassungen gibt es auch auf Spotify und Youtube:
+[Spotify](https://open.spotify.com/show/2BcuuWBat59zurJMaWY0QL)
+[YouTube](https://www.youtube.com/playlist?list=PL4wVg9uRZ4mKaDlHk4oZPLVsw5BZ5vLQx)
+
 ## Altes Testament:
 - [1. Mose (Genesis)](https://notebooklm.google.com/notebook/47ed8f67-1a1d-4b25-aa83-43b5077609c6?authuser=1)
 - [2. Mose (Exodus)](https://notebooklm.google.com/notebook/2fb1c20c-72a3-4a63-aedb-6b64f7255b03?authuser=1)
